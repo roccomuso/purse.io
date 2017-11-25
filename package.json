@@ -21,6 +21,9 @@
     "api",
     "node"
   ],
+  "engines": {
+    "node": ">=6"
+  },
   "author": "Rocco Musolino (@roccomuso)",
   "license": "MIT",
   "bugs": {
