@@ -40,6 +40,7 @@ purse({
 ### Methods
 
 - `fetch()`: Get Purse.io offers and return a Promise with the result.
+- `fetchRates()`: Get Purse.io currency rates. It returns a Promise.
 - `getCountries()`: Get list of supported countries.
 - `getLimits()`: Get supported limits.
 - `version()`: Get API version.
