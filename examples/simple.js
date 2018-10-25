@@ -6,7 +6,7 @@ let purse = new Purse({limit: 25})
 
 purse.limit(25)
   .offset(0)
-  .country('IT')
+  .country('UK')
   .amount(null)
   .hide(null)
   .fetch()

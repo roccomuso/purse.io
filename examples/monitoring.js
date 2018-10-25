@@ -2,14 +2,14 @@ const Purse = require('../index')
 let purse = new Purse()
 
 /*
- - Retrieve IT orders and get only those whose lossRate < 13%
+ - Retrieve UK orders and get only those whose lossRate < 13%
 */
 
 const MAX_LOSS_RATE = 13
 
 purse.limit(25)
   .offset(0)
-  .country('IT')
+  .country('UK')
   .amount(null)
   .hide(null)
   .fetch()

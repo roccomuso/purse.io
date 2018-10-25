@@ -16,7 +16,7 @@ let purse = new Purse()
 
 purse.limit(25)
   .offset(0)
-  .country('IT')
+  .country('UK')
   .amount(null)
   .hide(null)
   .fetch()
@@ -28,7 +28,7 @@ purse.limit(25)
 purse({
   limit: 25,
   offset: 0,
-  country: 'IT', // if none specified, offers are mixed
+  country: 'UK', // if none specified, offers are mixed
   amount: '0.5-1',
   hide: null
 }).fetch()
