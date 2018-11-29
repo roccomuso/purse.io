@@ -1,4 +1,4 @@
-# purse.io [![NPM Version](https://img.shields.io/npm/v/purse.io.svg)](https://www.npmjs.com/package/purse.io) ![node](https://img.shields.io/node/v/purse.io.svg) [![Dependency Status](https://david-dm.org/roccomuso/purse.io.png)](https://david-dm.org/roccomuso/purse.io) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+# purse.io [![NPM Version](https://img.shields.io/npm/v/purse.io.svg)](https://www.npmjs.com/package/purse.io) ![node](https://img.shields.io/node/v/purse.io.svg) [![Dependency Status](https://david-dm.org/roccomuso/purse.io.png)](https://david-dm.org/roccomuso/purse.io) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [<img width="100" align="right" src="https://raw.githubusercontent.com/roccomuso/cryptopanic/master/comet.svg?sanitize=true" alt="bitcoin">](https://github.com/roccomuso/purse.io)
 
 > Node.js unofficial client to `Purse.io` API
 
